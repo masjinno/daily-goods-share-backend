@@ -1,0 +1,37 @@
+{
+  "setting": {
+    "displaynames": [
+      "ループタオル",
+      "半袖Tシャツ",
+      "長ズボン"
+    ]
+  },
+  "dailygoods": [
+    {
+      "date": "2023-06-13",
+      "goods": [
+        {
+          "displayname": "ループタオル",
+          "nums": 1
+        },
+        {
+          "displayname": "半袖Tシャツ",
+          "nums": 2
+        }
+      ]
+    },
+    {
+      "date": "2023-06-14",
+      "goods": [
+        {
+          "displayname": "ループタオル",
+          "nums": 1
+        },
+        {
+          "displayname": "半袖Tシャツ",
+          "nums": 2
+        }
+      ]
+    }
+  ]
+}
