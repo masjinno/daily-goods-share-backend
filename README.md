@@ -1,1 +1,1 @@
-# daily-goods-share-lambda
+# daily-goods-share-backend
